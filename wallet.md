@@ -3,7 +3,7 @@ layout: layout.liquid
 title: Wallet
 ---
 
-{{ fancyHeading("Wallet") }}
+# My **Wallet**
 
 <section class="about-section">
   <img class="about" alt="pine" src="/images/20251102_200534.jpg" width="400" />

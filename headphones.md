@@ -3,7 +3,7 @@ layout: layout.liquid
 title: Headphones
 ---
 
-{{ fancyHeading("Headphones") }}
+# My **Headphones**
 
 <section class="about-section">
   <img class="about" alt="pine" src="/images/20251102_200513.jpg" width="400" />
