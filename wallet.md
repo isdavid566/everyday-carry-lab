@@ -3,7 +3,9 @@ layout: layout.liquid
 title: Wallet
 ---
 
-# My **Wallet**
+<section class="about">
+  <h1> My <strong><em>Wallet</em></strong></h1>
+</section>
 
 <section class="about-section">
   <img class="about" alt="pine" src="/images/20251102_200534.jpg" width="400" />

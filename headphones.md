@@ -3,7 +3,9 @@ layout: layout.liquid
 title: Headphones
 ---
 
-# My **Headphones**
+<section class="about">
+  <h1> My <strong><em>Headphones</em></strong></h1>
+</section>
 
 <section class="about-section">
   <img class="about" alt="pine" src="/images/20251102_200513.jpg" width="400" />

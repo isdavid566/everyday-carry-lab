@@ -3,7 +3,9 @@ layout: layout.liquid
 title: Phone
 ---
 
-# My **Phone**
+<section class="about">
+  <h1> My <strong><em>Phones</em></strong></h1>
+</section>
 
 <section class="about-section">
   <img class="about" alt="pine" src="/images/WIN_20251102_20_06_31_Pro.png" width="400" />
