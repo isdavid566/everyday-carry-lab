@@ -4,7 +4,7 @@ title: Phone
 ---
 
 <section class="about">
-  <h1> My <strong><em>Phones</em></strong></h1>
+  <h1> My <strong><em>Phone</em></strong></h1>
 </section>
 
 <section class="about-section">
