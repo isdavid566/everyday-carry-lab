@@ -1,5 +1,5 @@
 ---
-title: 11ty Boilerplate
+title: Everyday Carry
 ---
 
 <!DOCTYPE html>
@@ -11,12 +11,21 @@ title: 11ty Boilerplate
   <link rel="stylesheet" href="/styles/screen.css">
 </head>
 <body>
-  <nav>
-    <ul>
-      <li><a href="/" title="Go home">Home</a></li>
-      <li><a href="/about/" title="About the boilerplate">About</a></li>
-    </ul>
-  </nav>
-    {{ content }}
+  <div class="page-container">
+    <nav>
+      <ul>
+        <li><a href="/" title="Go Home">Home</a></li>
+        <li><a href="/phone/" title="My Phone">Phone</a></li>
+        <li><a href="/headphones/" title="My Headphones">Headphones</a></li>
+        <li><a href="/wallet/" title="My Wallet">Wallet</a></li>
+      </ul>
+    </nav>
+    <main class="content">
+      {{ content }}
+    </main>
+    <footer>
+      <p></p>
+    </footer>
+  </div>
 </body>
 </html>
